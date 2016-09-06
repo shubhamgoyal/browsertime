@@ -1,6 +1,11 @@
 # Browsertime changelog
 
-ersion 1.0-beta.3 2016-09-02
+UNRELEASED
+-------------------------
+### Changed
+* If the Firefox HAR Export plugin fails, don't throw an exception, just log and skip creating a HAR. Lets see if we can make a use case so this can be fixed in the plugin.
+
+version 1.0-beta.3 2016-09-02
 -------------------------
 ### Fixed
 * Query parameters in HAR files from Chrome are now correct
