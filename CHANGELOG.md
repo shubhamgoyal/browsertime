@@ -1,5 +1,8 @@
 # Browsertime changelog
 
+### Unreleased
+* Defaulting video screensize to 1280x1024 for Firefox issue
+
 version 1.0-beta.6 2016-09-29
 -------------------------
 ### Added
